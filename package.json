@@ -1,0 +1,15 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "你三付年费三分裤济南市\r 几十块的南方可能萨芬\r 牛咖斯年份\r 师傅三\r 撒大大a\r 添加master分支",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
